@@ -11,7 +11,7 @@ Pass the Nerfstudio training `config.yml` to the rendering script:
 ```
 
 The script loads the associated checkpoint and renders an interpolated camera
-path to the specified MP4. Run it from `/home/nhogg/splat` with the
+path to the specified MP4. Run it from `~/splat` with the
 `.venv-ns` environment already installed.
 
 An exported `splat.ply` alone cannot be rendered with this script because
